@@ -254,11 +254,17 @@ html {
         height: 3%;
         font-size: 25px;
     }
-
+ 
+  .navbar {
+        padding:0 0 0.5rem;
+    }
 }
 
 /* CTA */
 
+#cta  {
+  padding-top: 5%;
+}
 
 
 /* Footer  */
