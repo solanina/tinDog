@@ -213,11 +213,18 @@ html {
   line-height: 1.5;
 }
 
-.textprice {
+.textprice1 {
   color: black;
   font-size: 3rem;
   line-height: 1.5;
 }
+
+.textprice2 {
+  color: black;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
 
 .pricing-column{
   padding: 3% 2%;
@@ -256,6 +263,14 @@ html {
   .navbar {
         padding:0 0 0.5rem;
     }
+  
+      .textprice2 {
+      color: #fff;
+    }
+  
+  
+  
+  
 }
 
 
