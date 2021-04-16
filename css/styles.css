@@ -221,7 +221,7 @@ html {
 
 .textprice2 {
   color: black;
-  font-size: 3rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 
@@ -251,13 +251,7 @@ html {
     }
 
   #footer  .footer-icon {
-        color: #000;
-        padding-left: 10px;
-        padding-right: 10px;
-        padding-bottom: 25px;
-        width: 3%;
-        height: 3%;
-        font-size: 25px;
+          position: static;
     }
  
   .navbar {
@@ -265,7 +259,8 @@ html {
     }
   
       .textprice2 {
-      color: #fff;
+      font-size: 1rem;
+      color: #000;
     }
   
   
