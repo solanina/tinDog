@@ -29,13 +29,14 @@ html {
   /* Containers */
 
 
+#title .container-fluid {
+  padding-top: 4%;
+}
+
 .container-fluid {
   padding: 7% 15%;
 }
 
-#title .container-fluid {
-  padding-top: 4%;
-}
 
  /* Sections */
 
