@@ -33,6 +33,10 @@ html {
   padding: 7% 15%;
 }
 
+#title .container-fluid {
+  padding-top: 4%;
+}
+
  /* Sections */
 
 .colored-section {
