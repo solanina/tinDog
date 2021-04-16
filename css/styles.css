@@ -40,6 +40,10 @@ html {
   color: #fff;
 }
 
+#title .colored-section {
+  padding-bottom: 10rem;
+}
+
 .white-section {
   background-color: #fff;
   padding: 4rem;
