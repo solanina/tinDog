@@ -252,7 +252,9 @@ html {
     }
 
   #footer  .footer-icon {
-          position: static;
+        position: static;
+        padding-left: 15px;
+        padding-right: 15px;
     }
  
   .navbar {
