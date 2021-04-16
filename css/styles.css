@@ -117,7 +117,6 @@ html {
 
 .font_awesome:hover {
   color: #ff4c68;
-  margin-bottom:1rem;
 }
 
 /* FEATURES */
@@ -228,19 +227,19 @@ html {
   /* @MEDIA  */
 
 
-@media (max-width: 1028px) {
-    #title {
-      text-align: center;
-    }
 
-    .title-image {
+@media screen and (min-width: 601px) {
+  .big-heading {
+  font-size: 3.5rem;
+}
+}
 
-     position: static;
-     transform: rotate(0);
-     left: 20%;
-
-    }
-
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  .big-heading {
+  font-size: 2.5rem;
+}
+}
     .title-image-container{
       position: static;
     }
@@ -259,6 +258,14 @@ html {
         padding:0 0 0.5rem;
     }
 }
+
+
+
+
+
+
+
+
 
 /* CTA */
 
