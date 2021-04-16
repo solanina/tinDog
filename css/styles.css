@@ -22,6 +22,7 @@ html {
 /* Headings */
 
 .big-heading {
+  font-size: x-large;
   line-height: 1.5;
   font-weight: 900;
 }
